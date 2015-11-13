@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CallSOAPWSSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="f_to_c">FahrenheitToCelsius</string>
+    <string name="c_to_f">CelsiusToFahrenheit</string>
+
+</resources>
